@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer utilities {
+    .rotate-x-45 {
+      transform: rotateZ(20deg);
+    }
+    .rotate-y-45 {
+      transform: rotateY(160deg);
+    }
+    .rotate-z-90 {
+      transform: rotateZ(-90deg);
+    }
+    .rotate-z-45{
+        transform: rotateZ(45deg);
+
+    }
+  }
+  
