@@ -110,7 +110,7 @@ function CartContainer() {
         <div className='flex'>
             <div className='w-[100px] h-[40px] flex gap-[16px] items-center'>
                 <span className='w-[20px] h-[40px] bg-customRed rounded-md'></span>
-                <h2 className=' text-customRed text-[14px] md:text-[16px] font-medium '>Today&s</h2>
+                <h2 className=' text-customRed text-[14px] md:text-[16px] font-medium '>Today&apos;s</h2>
             </div>
         </div>
         <div className=' text-customBlack items-center flex gap-6 md:gap-20 '>
